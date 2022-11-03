@@ -4,6 +4,7 @@
     align-items: center;
     margin-top: 30vh;
     height: 70vh;
+    border: 2px solid salmon;
 }
 
 .ques-img{
